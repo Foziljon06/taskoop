@@ -23,3 +23,4 @@ C:\.Net Loyihalar\TaskOOP\obj\Debug\net8.0\refint\TaskOOP.dll
 C:\.Net Loyihalar\TaskOOP\obj\Debug\net8.0\TaskOOP.pdb
 C:\.Net Loyihalar\TaskOOP\obj\Debug\net8.0\TaskOOP.genruntimeconfig.cache
 C:\.Net Loyihalar\TaskOOP\obj\Debug\net8.0\ref\TaskOOP.dll
+C:\.Net Loyihalar\TaskOOP\obj\Debug\net8.0\TaskOOP.sourcelink.json

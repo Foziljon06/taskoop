@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ce92242b6e66caffdfc8f64a6b57dd03b07668")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
